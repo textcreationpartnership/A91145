@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of impeachment of high-treason, exhibited by the Commons of England, in a free Parliament, against Lieutenant-General Oliver Crumwel Esquire, Commissary-General Henry Ireton Esquire, Sir Hardresse Waller Knight and colonel, Colonel Pride, Colonel Hewson, Colonel Ewers, Cornet Joyce, Hugh Peters clerk, William Lenthal Esquire, Speaker, Sir Henry Mildmay Knight, Sir Peter Wentworth Knight of the Bath, Henry Martin, Cornelius Holland, and Thomas Scot, Esquires, Members of the House of Commons.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91145</idno>
+            <idno type="STC">Wing P3897</idno>
+            <idno type="STC">Thomason E476_37</idno>
+            <idno type="STC">ESTC R203361</idno>
+            <idno type="EEBO-CITATION">99863333</idno>
+            <idno type="PROQUEST">99863333</idno>
+            <idno type="VID">162515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162515)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of impeachment of high-treason, exhibited by the Commons of England, in a free Parliament, against Lieutenant-General Oliver Crumwel Esquire, Commissary-General Henry Ireton Esquire, Sir Hardresse Waller Knight and colonel, Colonel Pride, Colonel Hewson, Colonel Ewers, Cornet Joyce, Hugh Peters clerk, William Lenthal Esquire, Speaker, Sir Henry Mildmay Knight, Sir Peter Wentworth Knight of the Bath, Henry Martin, Cornelius Holland, and Thomas Scot, Esquires, Members of the House of Commons.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Impeachment --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162515:1" rendition="simple:additions"/>
+            <p>ARTICLES
+OF
+IMPEACHMENT
+OF
+High-Treaſon,
+EXHIBITED BY THE
+Commons of <hi>ENGLAND,</hi>
+IN A
+FREE PARLIAMENT,</p>
+            <p>AGAINST
+Lieutenant-General <hi>Oliver Crumwel</hi> Eſquire,
+Commiſſary-General <hi>Henry Ireton</hi> Eſquire,
+Sir <hi>Hardreſſe Waller</hi> Knight and Colonel,
+Colonel <hi>Pride,</hi> Colonel <hi>Hewſon,</hi> Colonel
+<hi>Ewers,</hi> Co<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Joyce, Hugh Peters</hi> Clerk, <hi>Wil<g ref="char:EOLhyphen"/>liam
+Lenthal</hi> Eſquire, Speaker, Sir <hi>Henry
+Mildmay</hi> Knight, Sir <hi>Peter Wentworth</hi> Knight
+of the Bath, <hi>Henry Martin, Cornelius Holland,</hi>
+and <hi>Thomas Scot,</hi> Eſquires, Members of the
+Houſe of Commons.</p>
+            <p>Imprinted at LONDON, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162515:2"/>
+            <pb n="3" facs="tcp:162515:2"/>
+            <head>Articles of Impeachment of High-Treaſon,
+exhibited by the Commons of England, in
+a free Parliament, againſt Lieutenant-General Oliver
+Crumwel Eſquire, Commiſſary-General Ireton <abbr>Eſq</abbr> Sir
+Hardreſſe Waller Knight and Colonel, Col. Hewſon, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Commons and Freemen of <hi>England,</hi> taking into our
+ſad and moſt ſerious conſiderations the bleeding and deſpe<g ref="char:EOLhyphen"/>rate
+condition of <hi>England</hi> and <hi>Ireland</hi> at this preſent, and
+the traiterous practices and unwearied endeavours of the
+forementioned perſons and their confederates, both in the Houſe of Com<g ref="char:EOLhyphen"/>mons
+and in the Army, to obſtruct and delay the ſettlement of a firm
+and bleſſed Peace, and perpetuate our War and Deſolation, and bring us
+and theſe two Kingdoms to ſpeedy and certain Ruine, to accompliſh their
+own treaſonable and deſtructive deſignes: We now at laſt neceſſitated,
+after an over-tired patience, and fruitleſs ſilence, out of a Chriſtian
+hopeful expectation of their Repentance and amendment, to exhibite
+to both Houſes of Parliament, and publiſh to the whole Kingdom, this
+enſuing Impeachment of High-Treaſon againſt them, and every of
+them; of which their own conſciences and the world muſt acknowledge
+them and every of them to be deeply guilty: and we are, and always
+ſhall be ready to prove and make good againſt them, by legal and pre<g ref="char:EOLhyphen"/>gnant
+teſtimonies, in caſe they ſhall be ſo impudent as to deny, and
+plead <hi>Not guilty</hi> thereunto.</p>
+            <p>1 That the ſaid <hi>Oliver Crumwel, Henry Ireton,</hi> Sir <hi>Hardreſſe Wal<g ref="char:EOLhyphen"/>ler,</hi>
+Colonel <hi>Pride,</hi> Colonel <hi>Hewſon,</hi> Colonel <hi>Ewers,</hi> Cornet <hi>Joyce,
+Hugh Peter, William Lenthal,</hi> Sir <hi>Henry Mildmay,</hi> Sir <hi>Peter Went<g ref="char:EOLhyphen"/>worth,</hi>
+Sir <hi>Henry Martin, Cornelius Holland,</hi> and <hi>Thomas Scot,</hi> and
+every of them, not having the fear of God before their eyes, nor
+regarding the ſolemn Oaths and Covenants lately taken by them
+and every of them, for defence and preſervation of the Kings Maje<g ref="char:EOLhyphen"/>ſties
+Perſon, His Crown and Dignitie, the Rights and Priviledges
+of Parliaments, and Fundamental Government, Laws and Liber<g ref="char:EOLhyphen"/>ties
+of this Realm; but ſeduced by the inſtigation of the devil, and
+their own corrupt and ambitious luſts, Have, ſince the firſt day of
+<hi>January,</hi> 1646, at ſeveral times and places, ſeditiouſly, wickedly and
+traiterouſly conſpired together, to alter and ſubvert the ancient Fun<g ref="char:EOLhyphen"/>damental
+Government, Laws and Liberties of the Realm of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="4" facs="tcp:162515:3"/>
+with the Rights, Priviledges, Freedom and Conſtitution of
+the Parliament of <hi>England,</hi> to <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſe and deſtroy the King, and
+diſinherite the Prince of <hi>Wales</hi> and the Kings poſteritie of the inhe<g ref="char:EOLhyphen"/>ritance
+of the Crown of this Kingdom, and to diſſolve this preſent
+Parliament, and to betray <hi>Ireland</hi> to the Popiſh Rebels, in caſe they
+cannot raiſe a partie there to joyn with them in theſe their traiterous
+deſignes.</p>
+            <p>2 That for the more effectu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and irreſiſtible carrying on of theſe
+their hainous and execrable Treaſons, they and every of them have
+ſince the time aforeſaid, traiterouſly endeavoured to get into their
+hands and power, and into the hands of their Confederates, all the
+P<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, Gariſons, Magazines, great Offices and Forces of this King<g ref="char:EOLhyphen"/>dom,
+both by Sea and Land, and to engage the General, <hi>Thomas</hi>
+Lord <hi>Fairfax,</hi> and the Armie under him, the Members of both Hou<g ref="char:EOLhyphen"/>ſes
+of Parliament, and the Sectaries, and others thorowout all the
+Cities and Counties of this Realm, to aid and aſſiſt them in theſe
+their Treaſons and traiterous deſignes, which they have in a great
+meaſure effected, and almoſt fully accompliſhed; and have likewiſe
+endeavoured to raiſe a partie both in <hi>Scotland</hi> and <hi>Ireland</hi> to joyn
+with them herein.</p>
+            <p>3 That all and every of the Impeached perſons forementioned, in
+purſuit and accompliſhment of their Treaſons, have, ſince the time
+aforeſaid, ſeditiouſly and traiterouſly maintained the Armie againſt
+both Houſes of Parliament, when voted to disband; kept them
+together in a Bodie, diſſwaded and hindred ſuch of them who were
+deſigned and going for the relief of <hi>Ireland</hi> againſt the Rebels, and
+other Forces raiſed by the Houſes for that purpoſe, from going thi<g ref="char:EOLhyphen"/>ther
+to relieve the Proteſtants there: Since which time, they have,
+and every of them, and their agents and confederates, traiterouſly
+and forcibly ſeized upon, removed, impriſoned, and ſecured under
+their cuſtodie and power, the Kings Majeſties Perſon, both at <hi>Hol<g ref="char:EOLhyphen"/>denby</hi>
+&amp; in the Iſle of <hi>Wight,</hi> and at <hi>Hurſt</hi> Caſtle, and at other places,
+without the privitie or conſent, and againſt the Authoritie, Votes,
+Inſtructions and Faith of both Houſes of Parliament, with a trai<g ref="char:EOLhyphen"/>terous
+intent to depoſe, murther and deſtroy His Perſon, to diſinhe<g ref="char:EOLhyphen"/>rite
+His Heirs and Poſteritie of the Crown of <hi>England,</hi> and alter or
+determine the Monarchical-Government of this Realm: which
+traiterous intentions they have declared in divers late Remonſtran<g ref="char:EOLhyphen"/>ces
+and other printed Papers to all the world, and by their ſpeeches
+and acts; and have likewiſe traiterouſly engaged the General, Coun<g ref="char:EOLhyphen"/>cel,
+<pb n="5" facs="tcp:162515:3"/>
+and Officers of the Armie, and ſome Members of the Commons
+Houſe to joyn with them in this their deteſtable Treaſons.</p>
+            <p>4 That all and every of the ſaid Conſpirators and Traitors, per<g ref="char:EOLhyphen"/>ceiving
+themſelves too weak and unable to engage the greater part
+of both Houſes of Parliament to joyn with them in carrying on
+the Treaſons forementioned, did therefore, in the months of <hi>May,
+June, July, Auguſt</hi> and <hi>September,</hi> in the yeer of our Lord 1647, in<g ref="char:EOLhyphen"/>vite
+the General, Officers and Souldiers of the Armie againſt the
+Houſes of Parliament, and engage them to march up in a mutinous
+manner againſt them, and by menaces and force compel them to re<g ref="char:EOLhyphen"/>tract
+ſundry Votes and Ordinances for the Publike ſafetie, to ſuſ<g ref="char:EOLhyphen"/>pend,
+impriſon and eject divers of their eminent Members, upon
+falſe and frivolous Charges contrived and exhibited againſt them, in
+the Officers and Armies names; perſwaded divers Members, upon
+a pretext of fear, after the fear was over, to deſert the Houſe, flee with
+them to the Armie, and there to enter into a ſhameful Engagement
+to live and die with the Armie in this Cauſe. After which, they
+and every of them marched up with the Armie in a hoſtile and for<g ref="char:EOLhyphen"/>cible
+manner againſt the Members of both Houſes of Parliament
+which continued ſitting according to their duties: and having for<g ref="char:EOLhyphen"/>cibly
+driven away, impriſoned, and illegally ſuſpended and ejected
+the greateſt number of them and their confederates in the Houſe,
+being an inconſiderate number, in the abſence of moſt of the Mem<g ref="char:EOLhyphen"/>bers,
+repealed and nulled all Votes, Ordinances, and proceedings of
+both Houſes, paſſed in them ſince the 26 of <hi>July,</hi> 1647, to the 6 of
+<hi>Auguſt</hi> following; enlarged the Generals Power and Commiſſion,
+altered and weakned the <hi>Militia</hi> of <hi>London,</hi> and demoliſhed the
+Works and Forts about it, impeached and impriſoned divers of the
+Officers and Aldermen of the Citie, under the pretext of levying a
+new War, (of which they and their confederates were really guil<g ref="char:EOLhyphen"/>ty)
+to deter them from aiding or aſſiſting the honeſt and greateſt
+part of both Houſes, oppoſite to their Treaſons and pernicious de<g ref="char:EOLhyphen"/>ſignes:
+and after that, paſſed ſome Votes of no more Addreſſes to
+the King, and engaged the General and Officers of the Armie to
+concur with their faction in over-awing the Houſe of Commons
+therein, and by placing a Gariſon of Foot and a party of Horſe
+of the Armie in <hi>White-hall</hi> and the <hi>Muſe,</hi> forced the Houſe of Peers
+to concur in thoſe Votes, whereby they generally diſcontented the
+whole Kingdom, and traiterouſly raiſed a new and dangerous War
+<pb n="6" facs="tcp:162515:4"/>
+therein, to the great danger and loſs both of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>5. That after the guards and forces of this Army by reaſon of
+theſe new commotions raiſed by the means aforeſaid, were re<g ref="char:EOLhyphen"/>moved
+from the Houſes, and they and their members reſtored
+to their honor, freedom and Priviledge, the ſaid Houſes for a ſpee<g ref="char:EOLhyphen"/>dy
+ſettlement of the Kingdoms peace, and ending theſe unnatu<g ref="char:EOLhyphen"/>rall
+wars voting a perſonall Treaty with the King in the Iſle of
+Wight; and ſending Commiſſioners to that purpoſe thither, who
+entered into an actuall Treaty with the King upon the Propoſiti<g ref="char:EOLhyphen"/>ons
+of both Houſes, extraordinarily advantageous both to the
+Houſes and whole Kingdom of England and Ireland, to moſt of
+which his Majeſty gave his full and free conſent. The ſaid confe<g ref="char:EOLhyphen"/>derates
+every of them who wickedly oppoſed, but were unable
+to prevent the Treaty in the Houſe where they were overvoted,
+in purſuance of their former Treaſons and deſignes, perſwaded
+and ingaged the Generall, and Councell of War on the 20 of <hi>No<g ref="char:EOLhyphen"/>vember</hi>
+laſt, to preſent a treaſonable and ſeditious Remonſtrance,
+(of the ſaid Conſpirators own contriving) to be preſented to the
+Houſe of Commons by the ſaid Col. <hi>Ewers</hi> in the name of the Ge<g ref="char:EOLhyphen"/>nerall
+and his Generall Councell of Officers, of purpoſe to inforce
+the Houſes to break of the Treaty with the King, contrary to their
+Faith and ingagement to the King and Kingdom, before it was
+expired, and to bring the King to ſpeedy juſtice and execution, to
+diſinherit him and his poſterity of the Crown, to alter the ancient
+frame and Government of the Kingdom, to diſſolve this preſent
+Parliament and in ſtead thereof, and of all future Parliaments
+to ſet up a new Repreſentative or Generall Councell, without ei<g ref="char:EOLhyphen"/>ther
+King, Lords, Knights, Citizens, or Burgeſſes, only elected
+to carry on their Treaſonable deſignes to perfection, which being
+laid aſide by the votes of the ſaid Houſe, till the Treaty was con<g ref="char:EOLhyphen"/>cluded.
+Thereupon the ſaid impeached Conſpirators, and every
+of them cauſed another Treaſonable Declaration to be publiſhed
+in the name of the Generall, and Councel of the Army; charg<g ref="char:EOLhyphen"/>ing
+the faithfull Members; who diſſenting from them in the
+Houſe and would not break off the Treaty, with breach of Truſt,
+and threatning forcibly to exclude and bring them to triall by a
+meer Arbitrary and uſurped Tiranicall power, and inviting all their
+Confederates in the Houſe to deſert it and joyn with them and
+the Councell of war and Army, who would both own, acknow<g ref="char:EOLhyphen"/>ledge
+<pb n="7" facs="tcp:162515:4"/>
+and adhere to them as the true Houſe of Commons, though
+inconſiderable for their Number; and thereupon contrary to the
+Houſe of Commons expreſſe order, trayterouſly procured the Ge<g ref="char:EOLhyphen"/>nerall,
+Officers and Army to march up to Weſtminſter to over<g ref="char:EOLhyphen"/>awe
+the Houſe of Commons, in their debates and votes touch<g ref="char:EOLhyphen"/>ing
+the ſatisfactorineſſe of the Kings Anſwers there in debate,
+which being carried againſt them, by plurality of voyces in the
+ſaid Houſe upon the Queſtion on Tueſday the 5 of <hi>December</hi> in<g ref="char:EOLhyphen"/>ſtant,
+thereupon the ſaid Confederates, and every of them on
+Wedneſday and Thurſday following being the 6 &amp; 7. of this inſtant
+December cauſed ſtrong guards of Horſe and Foot to beſet both
+Houſes of Parliament to apprehend and keep out the diſſenting
+members who voted againſt them, And the ſaid Sir <hi>Hardreſſe Wal<g ref="char:EOLhyphen"/>ler,</hi>
+Coll. <hi>Pride,</hi> Coll. <hi>Hewſon,</hi> and Cornet <hi>Joyce,</hi> did violently
+ſeiſe upon, impriſon and keep from the ſaid Houſe, the Lord
+<hi>Wainmar,</hi> Sir <hi>Robert Harlow,</hi> and Sir <hi>Robert Pie</hi> and about forty
+other eminent Members, and pulled out Mr. <hi>Edward Stephens,</hi> and
+Coll. <hi>Birch,</hi> from the very doores of the ſaid Houſe, as they were
+going to diſcharge their duties and detained them priſoners in
+the Queens court, refuſing to deliver them, though the Houſe
+ſent their Sergeant twiſe to releaſe them; after which they were
+in ſcorn and contempt to the Houſe, by the ſaid conſpirators means
+carried priſoners into a victualing houſe called Hell, and there ſhut
+up in a Room all night, without beds, or accommodation, on the
+7 of <hi>December</hi> carried priſoners to Whitehall with ſtrong guards,
+upon them, and from thence to the Kings head and ſwan in the
+ſtrand, and there detained, and above an hundred other members
+ſince forcibly excluded and driven away from the Houſe, and they
+and their conſederrtes have ſince the impriſonment, and ſecluſion
+of the ſaid members to carry on their ſaid Treaſons and deſignes,
+with ſome colour of authority repealed ſundry votes of the ſaid
+Houſe when full and free, concerning the Kings removall and the
+Treaty, and Treaſonably and forceably uſurped the name and
+power of the Houſe of Commons to them and their faction, to put
+an end to this preſent Parliament and to the Monarch, Parliaments,
+Government, laws and priviledges of this Kingdom and to depoſe,
+deſtroy, and diſinherit the King and his poſterity.</p>
+            <p>All which reſpective oharges of high Treaſon we the Commons of
+England are and ſhall always be ready to make good and prove in a
+<pb n="8" facs="tcp:162515:5"/>
+Legal way in this preſent Parliament, as ſoon as it ſhall be reſtored
+to a condition of Freedom, and from the force that is now upon it,
+and humbly pray that the ſaid Traitors and every of them may be
+forthwith apprehended, ſecured and brought to Trial, before they
+ruine King, Parliament, and the Kingdoms of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>
+and enſlave them to their Tyrannie.</p>
+            <p>And becauſe we confidently believe that the General, and moſt of the
+other Officers and the common Souldiers of the Army, have been over<g ref="char:EOLhyphen"/>reacht
+and ſeduced by theſe Arch-traitors, under fair pretences of pub<g ref="char:EOLhyphen"/>like
+Juſtice, and Settlement of the Kingdom, to aſſiſt and joyn with
+them in purſuance of their treaſonable deſignes, and have acted therein
+out of honeſt intentions; we ſhall become humble ſuiters to both Houſes
+in their behalf, upon the acknowledgement of their errour, deſerting of
+theſe confederate Traitors, and yeelding them up to Publike Juſtice,
+and returning to their former obedience to the Parliaments commands,
+and withdrawing from the City and Houſes, that they will paſs by all
+their former overſights (though they have eclipſed all their former
+glorious ſucceſſes) and take a ſpeedy and effectual courſe for the ſatiſ<g ref="char:EOLhyphen"/>faction
+of all their arrears: And for this end, we ſhall in all brotherly
+love and Chriſtian affection, ſpeak our very hearts and ſouls unto them,
+in the words of <hi>Moſes</hi> to thoſe Iſraelites which joyned with <hi>Corah,
+Dathan</hi> and <hi>Abiram</hi> in their Inſurrection againſt <hi>Moſes</hi> and <hi>Aaron,</hi>
+much like to thoſe, in adhering to theſe Traitors againſt both Houſes
+and the Kingdom, <hi>Numb. 15. 26, 27. Depart, we pray you, from
+the tents of theſe wicked men, and touch nothing of theirs, leſt
+you be conſumed in all their ſins. So they got them up from the
+tabernacles of</hi> Corah, Dathan <hi>and</hi> Abiram <hi>on every ſide.</hi> Which if
+they ſhall refuſe, upon this our brotherly requeſt, we ſhall then with
+grief of heart be enforced to declare their Commiſſions forfeited, and
+their perſons unfit to be employed and intruſted for the future; and can
+neither in conſcience, duty, honour, or point of ſafety, contribute any
+thing towards their future ſubſiſtence, but look upon them in the ſelf<g ref="char:EOLhyphen"/>ſame
+manner as we do upon theſe impeached Traitors.</p>
+            <p>All which we humbly ſubmit to the grave and ſerious conſi<g ref="char:EOLhyphen"/>deration
+of the Houſes of Parliament, and the whole
+Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
